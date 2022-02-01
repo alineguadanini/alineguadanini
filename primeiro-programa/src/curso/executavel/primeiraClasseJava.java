@@ -3,6 +3,6 @@ package curso.executavel;
 public class primeiraClasseJava {
 	
 public static void main(String[] args) {
-	System.out.println("Voce");
+	System.out.println("sta");
 }
 }
